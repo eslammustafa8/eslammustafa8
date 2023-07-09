@@ -21,27 +21,27 @@
 
 <a href="https://www.linkedin.com/in/eslam-mustafa-6a5b6b240/" target="_blank"><img src="https://img.shields.io/badge/-eslam%20Mustafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/eslammustafa1" target="_blank"><img src="https://img.shields.io/badge/-Eslam%20Mustafa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://twitter.com/EslamMo88606915" target="_blank"><img src="https://img.shields.io/badge/-Eslam%20Mustafa-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/EslamMo88606915" target="_balnk"><img src="https://img.shields.io/badge/-Eslam%20Mustafa-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![MySQl](https://img.shields.io/badge/-MySQl-05122A?style=flat&logo=MySQl&logoColor=1572B6)&nbsp;
+![cplusplus](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![kalilinux](https://img.shields.io/badge/-kalilinux-05122A?style=flat&logo=kalilinux&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+
 ![mysQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslammustafa8&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=eslammustafa8&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=eslammustafa8&style=for-the-badge">
 </a>
