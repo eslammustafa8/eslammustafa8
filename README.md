@@ -39,9 +39,8 @@
 
 
 
-
-<img align="left" src="https:///github-readme-stats.vercel.app/api/top-langs?username=eslammustafa8&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc//?username=eslammustafa8&style=for-the-badge">
-    <img src="https://komarev.com//ghpvc/?username=eslammustafa8&style=for-the-badge">
-</a> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslammustafa8&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+    <br>
+    <a href="https://komarev.com/ghpvc/?username=eslammustafa8&style=for-the-badge">
+        <img src="https://komarev.com/ghpvc/?username=eslammustafa8&style=for-the-badge">
+    </a> 
