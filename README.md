@@ -78,7 +78,7 @@ Open to collaborations, freelance projects, or innovative ideas!
 
 
 ##
-<img src="https://raw.githubusercontent.com/eslammustafa8/BlogApp/output/github-contribution-grid-snake.svg" />
+
 
 ###
 ![](https://github-trophies.vercel.app/?username=eslammustafa8)
