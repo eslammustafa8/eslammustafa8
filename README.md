@@ -79,7 +79,6 @@ Open to collaborations, freelance projects, or innovative ideas!
 ###
 ![](https://github-trophies.vercel.app/?username=eslammustafa8)
 
-<img src="https://raw.githubusercontent.com/eslammustafa8/eslammustafa8/snake.svg" alt="Snake animation" />
 
 ###
 
