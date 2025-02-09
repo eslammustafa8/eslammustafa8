@@ -4,7 +4,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=backend-Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-<h3 align="left">Hi 👋! My name is Eslam and I'm a backend developer  , from Mansoura Egypt</h3>
+Hi! I'm **Eslam**, a Backend Developer from **Mansoura, Egypt** 🇪🇬  
+Passionate about building robust systems with **PHP | Laravel** 🛠️  
+Deeply interested in backend architecture and computer science fundamentals.  
+Open to collaborations, freelance projects, or innovative ideas!  
+
+📫 Reach me: [
 
 ###
 
@@ -68,7 +73,7 @@
 </div>
 
 ###
-
+[![trophy](https://github-trophies.vercel.app/?username=eslammustafa8&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/eslammustafa8/output/snake.svg" alt="Snake animation" />
