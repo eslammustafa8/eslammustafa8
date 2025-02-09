@@ -71,7 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eslammustafa8/eslammustafa8/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eslammustafa8/output/snake.svg" alt="Snake animation" />
 
 ###
 
