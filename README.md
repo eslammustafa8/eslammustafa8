@@ -77,8 +77,7 @@ Open to collaborations, freelance projects, or innovative ideas!
 </div>
 
 ###
-[![trophy](https://github-trophies.vercel.app/?username=eslammustafa8&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
-<br clear="both">
+![](https://github-trophies.vercel.app/?username=eslammustafa8)
 
 <img src="https://raw.githubusercontent.com/eslammustafa8/output/snake.svg" alt="Snake animation" />
 
